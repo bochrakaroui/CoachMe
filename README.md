@@ -22,22 +22,3 @@ CoachMe/
 ├── frontend/
 ├── models/
 └── README.md
-
-## Current Progress
-
-- Fitness dataset created
-- Nutrition dataset created
-- GitHub repository initialized
-- Basic project structure set
-
-## Next Steps
-
-- Clean and preprocess data
-- Fine-tune language model (LoRA / QLoRA)
-- Build FastAPI backend
-- Create frontend chat interface
-- Connect everything into one system
-
-## Goal
-
-Build a simple AI fitness coach that gives smart, personalized answers.
